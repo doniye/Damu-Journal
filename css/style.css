@@ -341,6 +341,11 @@ a:hover, a:active, a:focus {
   background: url('../images/muza-bg.jpeg') no-repeat;
 }
 
+.background-13              /*main-single-post*/
+ {
+  background: url('../images/zolgensma-5.jpeg') no-repeat;
+}
+
 .main-gallery {
   background: url('../images/n2.jpeg') no-repeat;
 }
