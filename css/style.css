@@ -361,6 +361,11 @@ a:hover, a:active, a:focus {
   background: url('../images/art-1.jpeg') no-repeat;
 }
 
+.background-17           /*main-single-post*/
+ {
+  background: url('../images/time-4.jpeg') no-repeat;
+}
+
 
 .main-gallery {
   background: url('../images/n2.jpeg') no-repeat;
