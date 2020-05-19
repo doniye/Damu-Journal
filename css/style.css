@@ -366,6 +366,11 @@ a:hover, a:active, a:focus {
   background: url('../images/time-4.jpeg') no-repeat;
 }
 
+.background-18          /*main-single-post*/
+ {
+  background: url('../images/batman-back.jpeg') no-repeat;
+}
+
 
 .main-gallery {
   background: url('../images/n2.jpeg') no-repeat;
